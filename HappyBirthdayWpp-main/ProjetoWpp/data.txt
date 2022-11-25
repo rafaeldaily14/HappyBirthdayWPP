@@ -1,0 +1,3 @@
+imagem
+C:/Users/PICHAU/Documents/image.jpg
+Pega esse
